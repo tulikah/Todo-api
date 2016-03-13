@@ -10,7 +10,7 @@ var todos = [{
 	description: 'Go to market',
 	completed: false
 },{
-	id: 2,
+	id: 3,
 	description: 'Get an internship',
 	completed: false
 }];
